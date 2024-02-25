@@ -5,13 +5,13 @@
 // RECODE BY KOKO PANGERAN
 
 //=============『 Utama 』================== //
-global.owner = ['+6283844508188'] 
-global.mods = ['+6283844508188'] 
-global.prems = ['+6283844508188'] 
+global.owner = ['+6283890107168'] 
+global.mods = ['+6283890107168'] 
+global.prems = ['+6283890107168','+6281617945484']
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Sopiput×፝֟͜×'
-global.numberowner = '+6283844508188'
+global.nameowner = 'Zaxploit×'
+global.numberowner = '+6281617945484'
 global.instagram = 'https://instagram.com/kokopangeran_'
 global.github = 'https://github.com/MendingTuru'
 global.dana = '087832147584'
@@ -19,7 +19,7 @@ global.pulsa = '087832147584'
 global.gopay = '087832147584'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Meii-MD×፝֟͜×'
+global.namebot = 'Xeon'
 global.gc = 'https://chat.whatsapp.com/BelumBuatGroupBot'
 global.web = 'https://instagram.com/kokopangeran_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/kokopangeran_'
